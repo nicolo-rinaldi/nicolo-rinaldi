@@ -1,6 +1,6 @@
 ## Hi there, I'm Nicolò 👋
 
-Junior Software Engineer / Data Scientist at [Sease](https://sease.io), working on search and information retrieval.
+Software Engineer / Data Scientist at [Sease](https://sease.io), working on search and information retrieval.
 
 - 🔍 **Focus:** semantic search, embedding models, neural reranking, NLP
 - ⚙️ **Engines:** Apache Solr and OpenSearch, from prototype to production
